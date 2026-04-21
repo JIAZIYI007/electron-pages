@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 由 DuckDuckStudio/Sitemap_Creator 于 11/29/2025, 16:37:55 生成 -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+              xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+              xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+                                  http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <url>
+    <loc>https://jiaziyi007.github.io/about.html</loc>
+    <lastmod>2025-02-11T03:01:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/en/about.html</loc>
+    <lastmod>2025-02-07T02:04:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/en/index.html</loc>
+    <lastmod>2025-02-07T11:01:08Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/en/netdisk-img.html</loc>
+    <lastmod>2025-02-07T02:04:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/en/rcc-en.html</loc>
+    <lastmod>2025-02-07T02:04:30Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/index.html</loc>
+    <lastmod>2025-05-03T13:00:33Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/live-player.html</loc>
+    <lastmod>2025-11-29T16:37:41+08:00</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/netdisk-img.html</loc>
+    <lastmod>2025-02-11T03:01:07Z</lastmod>
+  </url>
+  <url>
+    <loc>https://jiaziyi007.github.io/rcc-en.html</loc>
+    <lastmod>2025-02-11T03:01:07Z</lastmod>
+  </url>
+</urlset>

@@ -1,0 +1,56 @@
+{
+  "name": "electron-project",
+  "version": "1.0.0",
+  "description": "test electron project",
+  "license": "MIT",
+  "author": "007media",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^39.2.3",
+    "electron-builder": "^26.8.1"
+  },
+  "build": {
+    "appId": "com.example.electron-project",
+    "productName": "Electron测试应用",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "index.html",
+      "about.html",
+      "gb2312.html",
+      "live-player.html",
+      "netdisk-img.html",
+      "rcc-en.html",
+      "style2.css",
+      "index.js",
+      "favicon.ico",
+      "robots.txt",
+      "sitemap.xml",
+      "node_modules/**/*"
+    ],
+    "win": {
+      "target": "nsis",
+      "icon": "favicon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "allowToChangeInstallationDirectory": true
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "favicon.ico"
+    },
+    "linux": {
+      "target": "AppImage",
+      "icon": "favicon.ico"
+    }
+  }
+}
