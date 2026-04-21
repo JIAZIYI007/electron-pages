@@ -1,0 +1,8 @@
+# 用来忽略特定文件/文件夹
+# IDE
+.vs/
+.vscode/
+
+# For @DuckDuckStudio
+.auto_script/
+# end of the file
