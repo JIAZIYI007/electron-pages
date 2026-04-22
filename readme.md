@@ -41,7 +41,7 @@ electron-project/
 # 快速开始
 1. 克隆或下载项目
 ```
-git clone https://github.com/你的用户名/electron-project.git
+git clone https://github.com/JIAZIYI007/electron-project.git
 cd electron-project
 ```
 
